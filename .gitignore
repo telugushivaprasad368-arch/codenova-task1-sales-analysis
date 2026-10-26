@@ -1,0 +1,11 @@
+# Local notebook and system files
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+
