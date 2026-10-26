@@ -1,0 +1,113 @@
+{
+  "dataset": {
+    "rows": 1440,
+    "period": "2025-01-01 to 2026-12-31",
+    "synthetic": true
+  },
+  "kpis": {
+    "total_gross_revenue": 452972.32,
+    "total_profit": 124893.84,
+    "profit_margin_pct": 27.57,
+    "average_order_value": 314.56,
+    "units_sold": 4243,
+    "orders": 1440
+  },
+  "category_performance": [
+    {
+      "category": "Furniture",
+      "gross_revenue": 240724.7,
+      "profit": 56041.09,
+      "margin_pct": 23.28,
+      "units": 1078
+    },
+    {
+      "category": "Electronics",
+      "gross_revenue": 98157.04,
+      "profit": 30363.61,
+      "margin_pct": 30.93,
+      "units": 1045
+    },
+    {
+      "category": "Home & Kitchen",
+      "gross_revenue": 88768.53,
+      "profit": 28359.15,
+      "margin_pct": 31.95,
+      "units": 987
+    },
+    {
+      "category": "Office Supplies",
+      "gross_revenue": 25322.05,
+      "profit": 10129.99,
+      "margin_pct": 40,
+      "units": 1133
+    }
+  ],
+  "regional_performance": [
+    {
+      "region": "West",
+      "gross_revenue": 118306.17,
+      "profit": 32902.38,
+      "margin_pct": 27.81
+    },
+    {
+      "region": "East",
+      "gross_revenue": 116161.7,
+      "profit": 31857.15,
+      "margin_pct": 27.42
+    },
+    {
+      "region": "South",
+      "gross_revenue": 114776.42,
+      "profit": 31113.41,
+      "margin_pct": 27.11
+    },
+    {
+      "region": "North",
+      "gross_revenue": 103728.03,
+      "profit": 29020.9,
+      "margin_pct": 27.98
+    }
+  ],
+  "quarterly_performance": [
+    {
+      "quarter": "2025 Q1",
+      "gross_revenue": 50929.52,
+      "profit": 13544.96
+    },
+    {
+      "quarter": "2025 Q2",
+      "gross_revenue": 54148.95,
+      "profit": 15238.78
+    },
+    {
+      "quarter": "2025 Q3",
+      "gross_revenue": 55388.23,
+      "profit": 15269.94
+    },
+    {
+      "quarter": "2025 Q4",
+      "gross_revenue": 66800.49,
+      "profit": 18777.2
+    },
+    {
+      "quarter": "2026 Q1",
+      "gross_revenue": 51372.61,
+      "profit": 13959.28
+    },
+    {
+      "quarter": "2026 Q2",
+      "gross_revenue": 53728.34,
+      "profit": 14685.99
+    },
+    {
+      "quarter": "2026 Q3",
+      "gross_revenue": 50773.11,
+      "profit": 14060.15
+    },
+    {
+      "quarter": "2026 Q4",
+      "gross_revenue": 69831.07,
+      "profit": 19357.54
+    }
+  ]
+}
